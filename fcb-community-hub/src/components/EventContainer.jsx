@@ -1,15 +1,5 @@
 import React from "react";
 import Event from "./Event";
-import Alavez from '../assets/clubs/alavéz-logo.png';
-import AthleticClub from '../assets/clubs/athletic-club-logo.png';
-import CeltaVigo from '../assets/clubs/celta-vigo-logo.png';
-import Granada from '../assets/clubs/granada-logo.png';
-import Mallorca from '../assets/clubs/mallorca-logo.png';
-import RayoVallecano from '../assets/clubs/rayo-vallecano-logo.png';
-import RealBetis from '../assets/clubs/real-betis-logo.png';
-import RealMadrid from '../assets/clubs/real-madrid-logo.png';
-import RealSociedad from '../assets/clubs/real-sociedad-logo.png';
-import Sevilla from '../assets/clubs/sevilla-logo.png';
 
 const EventContainer = () => {
     return (
