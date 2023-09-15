@@ -36,7 +36,7 @@ const Event = (props) => {
     const opponentLogo = opponentLogos[opponentSlug];
 
     return (
-        <div className="m-5 p-8 bg-red-100 w-4/5 h-auto rounded-lg shadow-white shadow-sm text-center flex flex-col justify-center items-center">
+        <div className="m-5 p-8 bg-red-100 h-auto rounded-lg shadow-white shadow-sm text-center flex flex-col justify-center items-center">
             <img src={opponentLogo} alt={`${opponent}'s Club Logo`} className="w-32 h-32 object-cover" />
             <div>
                 <h2 className="text-blue-950 font-extrabold text-xl">

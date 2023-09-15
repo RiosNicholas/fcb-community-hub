@@ -3,7 +3,7 @@ import Event from "./Event";
 
 const EventContainer = () => {
     return (
-        <div className="grid m-10 sm:grid-cols-1 md:grid-cols-2">
+        <div className="grid mx-16 sm:grid-cols-1 md:grid-cols-2">
             <Event homeTeam='FC Barcelona' awayTeam='Real Betis' date='September 15, 2023' matchInfo="https://onefootball.com/en/match/2397169"/>
             <Event homeTeam='FC Barcelona' awayTeam='Celta Vigo' date='September 23, 2023' matchInfo="https://onefootball.com/en/match/2397181" />
             <Event homeTeam='Mallorca' awayTeam='FC Barcelona' date='September 26, 2023' matchInfo="https://onefootball.com/en/match/2397192" />
