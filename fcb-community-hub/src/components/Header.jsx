@@ -1,5 +1,5 @@
 import React from 'react';
-import FCBLogo from '../assets/clubs/fcb-logo.png';
+import FCBLogo from '../assets/clubs/barcelona-logo.png';
 
 const Header = () => {
     return (
