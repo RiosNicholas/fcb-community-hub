@@ -3,7 +3,12 @@ import Event from "./Event";
 
 const EventContainer = () => {
     return (
-        <Event></Event>
+        <div>
+            <Event />
+            <Event />
+            <Event />
+            <Event />
+        </div>
     )
 }
 export default EventContainer

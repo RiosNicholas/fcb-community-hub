@@ -1,12 +1,12 @@
 import React from "react";
 
-const Event = () => {
+const Event = (props) => {
     return (
         <div>
-            <img>Image goes here</img>
-            <h2 className="text-black">FCB at ___</h2>
+            <img></img>
+            <h2 className="text-black">FCB at {props.opponent}</h2>
             <p>Match details</p>
-            <button>Add to Calendar?</button>
+            <button>Add to Calendar</button>
         </div>
     )
 }
