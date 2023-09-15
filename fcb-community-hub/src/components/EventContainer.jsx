@@ -6,7 +6,7 @@ const EventContainer = () => {
     return (
         <div className="grid m-10 sm:grid-cols-1 md:grid-cols-2">
             <Event homeTeam='FC Barcelona' awayTeam='Real Betis' date='September 15, 2023' matchInfo="https://onefootball.com/en/match/2397169"/>
-            <Event homeTeam='Barcelona' awayTeam='Celta Vigo' date='September 23, 2023' matchInfo="https://onefootball.com/en/match/2397181" />
+            <Event homeTeam='FC Barcelona' awayTeam='Celta Vigo' date='September 23, 2023' matchInfo="https://onefootball.com/en/match/2397181" />
             <Event homeTeam='Mallorca' awayTeam='FC Barcelona' date='September 26, 2023' matchInfo="https://onefootball.com/en/match/2397192" />
             <Event homeTeam='FC Barcelona' awayTeam='Sevilla' date='September 29, 2023' matchInfo="https://onefootball.com/en/match/2397201" />
             <Event homeTeam='Granada' awayTeam='FC Barcelona' date='October 8, 2023' matchInfo="https://onefootball.com/en/match/2397213" />
