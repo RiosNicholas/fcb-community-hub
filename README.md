@@ -4,7 +4,7 @@ Submitted by: Nicholas Rios
 
 This web app: **Designed for FC Barcelona ⚽ fans who want to stay informed about the team's upcoming match fixtures.**
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/a/qc1bDkH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='2023-09-15 20-40-38.gif' width=''  alt='Video Walkthrough' />
 
 ## Notes
 
